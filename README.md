@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/Tailspin009/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/jackxia1234.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Tailspin009/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=1&branchName=master)
+
 
 # Contributing
 
